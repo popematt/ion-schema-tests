@@ -82,7 +82,7 @@ type::{
 }
 
 $test::{
-  type: contains_with_duplicated_value,
+  type: contains_with_duplicate_elements,
   should_accept_as_valid:[
     [1],
     [1, 2, 3],
